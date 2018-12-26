@@ -1,4 +1,3 @@
-# Amshar 2018
 # Simple impplementation of new haveibeenpwned.com API for querying passwords
 # v1.1
 
