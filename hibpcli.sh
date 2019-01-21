@@ -32,6 +32,8 @@ if [[ -z $(which sha1sum) ]]; then
     exit
 fi
 
+# convert windows/dos style newline \r\n to uni-style newline \n
+dos2unix "$1"
 
 #Main function to fetch hashes
 
