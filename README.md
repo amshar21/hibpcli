@@ -21,7 +21,7 @@ Sample output :
 root@pwnbx:~/hibpcli# ./hibpcli.sh password.lst 4
  
 - HaveIBeenPwned-cli
-- github.com/Codeshift3r
+- github.com/amshar21
  
 - Total passwords: 11
 - Total tasks: 4
