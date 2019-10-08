@@ -4,7 +4,7 @@
 function banner {
 echo " "
 echo "- HaveIBeenPwned-cli"
-echo "- github.com/Codeshift3r"
+echo "- github.com/amshar21"
 echo " "
 }
 
